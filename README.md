@@ -15,9 +15,9 @@ The **DMSP** is a pioneering resource designed to address the challenges in pers
 ---
 
 ## 📚 Dataset
-📢 Availability Note: We provide partial dataset samples in the  directory for reference. The complete dataset (839 samples in total) will be publicly released upon acceptance of the paper.
-The **DMSP** dataset originally comprised **839 samples**. The dataset is located in the `DMSP/` directory.
-
+📢 Availability Note: We provide partial dataset samples in the directory for reference. The complete dataset (839 samples in total) will be publicly released upon acceptance of the paper. 
+The dataset can be accessed on Hugging Face: https://huggingface.co/datasets/zitongkk/DMSP/tree/main
+The DMSP dataset originally comprised 839 samples. The dataset is located in the DMSP/ directory.
 ### Directory Structure
 
 ```text
